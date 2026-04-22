@@ -1,4 +1,4 @@
-# Free Vibes — AI Coding Agent IDE
+<img src="logo.png">
 
 **Free Vibes** is a desktop AI-powered coding environment built with Python and PyQt6.  
 It combines an interactive code editor, AI assistant, and terminal into one unified workspace.
