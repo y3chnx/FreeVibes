@@ -95,7 +95,13 @@ Free Vibes is built around the idea of a **“Free AI Coding Agent IDE”**:
 
 ## 🎥 Demo
 
-[Watch Demo Video](https://www.youtube.com/watch?v=YOUR_ID)
+[Watch Demo Video](https://www.youtube.com/watch?v=NtXNjKbPtEs)
+
+---
+
+## ⬇ Download
+
+[Download From Google Drive](https://drive.google.com/file/d/1udezAeY13_tAkr0rACmV3ZwpY4357zBg/view?usp=sharing)
 
 ---
 
