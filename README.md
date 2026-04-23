@@ -85,7 +85,7 @@ Free Vibes is built around the idea of a **“Free AI Coding Agent IDE”**:
 
 ## Future Improvements
 
-- Add multi-language support (JavaScript, C++)
+- Add multi-language support (JavaScript or C++)
 - Sandboxed execution environment
 - Plugin system for AI tools
 - Cloud sync for projects
